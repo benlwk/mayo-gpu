@@ -1,5 +1,5 @@
 # MAYO on GPU
-
+This is the code for the paper "Fast and Constant-Time MAYO Signatures on GPUs with Timing Leakage and Parallel Granularity Analysis"
 CUDA signing and verification for the MAYO post-quantum signature scheme, all four parameter sets.
 
 - `coarse/`: one thread per signature, bit-sliced GF(16).
